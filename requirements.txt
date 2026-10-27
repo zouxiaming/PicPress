@@ -1,0 +1,3 @@
+# 运行与打包都只需要这两个依赖（tkinter 随 Python 自带）
+Pillow>=10.0
+pyinstaller>=6.0
